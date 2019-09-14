@@ -1,5 +1,7 @@
 {
   "name": "Lottie-Ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
